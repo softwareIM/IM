@@ -143,7 +143,7 @@ public class frmSignup extends JFrame {
       return panel;
    }
    
-   //다중 parameter로 잡았음
+   //다중 parameter로 잡았음//
    //코드중복을줄이기위해 안써도 상관없음 ㅋㅋ
    public JLayeredPane setJLayered(Component...components){
         int i = 0;
